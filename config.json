@@ -17,6 +17,12 @@
       "tilejson": {
         "type": "overlay"
       }
+    },
+    "klokantech": {
+      "style": "klokantech-basic/style.json",
+      "tilejson": {
+        "type": "overlay"
+      }
     }
   },
   "data": {
