@@ -8,3 +8,6 @@ Currently includes the following styles:
 Fonts were generated using [OpenMapTiles Fonts](https://github.com/openmaptiles/fonts/tree/master)
 
 For an overview of Licenses, see [LICENSE.md](https://github.com/curtisy1/omt-style-collection/blob/main/LICENSE.md)
+
+## Notice about Qwant styles
+Qwant styles were adjusted to include house numbers and change the styles a bit so they look more natural
