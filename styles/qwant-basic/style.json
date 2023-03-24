@@ -865,7 +865,7 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-outline-color": "#666767",
+                "fill-outline-color": "#ccd4d9",
                 "fill-color": "#eef3f5",
                 "fill-opacity": {
                     "base": 1,
